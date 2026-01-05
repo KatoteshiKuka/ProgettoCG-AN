@@ -7643,7 +7643,7 @@ MonoBehaviour:
   priority: 1
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: fdb2cac9f2ec5403eb8e90dd153ea945, type: 2}
+  sharedProfile: {fileID: 11400000, guid: daee6b5f6a9524790968c577e13ef35f, type: 2}
 --- !u!4 &1970771310
 Transform:
   m_ObjectHideFlags: 0
