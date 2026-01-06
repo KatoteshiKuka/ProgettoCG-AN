@@ -3736,7 +3736,7 @@ Light:
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 0.42745098, g: 0.2784314, b: 0.83137256, a: 1}
-  m_Intensity: 1591.5494
+  m_Intensity: 10000
   m_Range: 50
   m_SpotAngle: 76.1
   m_InnerSpotAngle: 33.8
@@ -3787,7 +3787,7 @@ Light:
   m_ForceVisible: 0
   m_ShadowRadius: 5
   m_ShadowAngle: 0
-  m_LightUnit: 0
+  m_LightUnit: 2
   m_LuxAtDistance: 100
   m_EnableSpotReflector: 1
 --- !u!4 &980375790
